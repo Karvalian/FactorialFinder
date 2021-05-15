@@ -21,4 +21,8 @@ int main(){
 		cout << factorial << endl;
 
 	}
+	cout << "Press any key to exit." << endl;
+	int kk;
+	cin >> kk;
+
 }
